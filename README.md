@@ -1,7 +1,7 @@
 # Test Engineer Take Home Exam
 
 Welcome to the Test Engineer Take Home Exam! Please follow the instructions below to complete the assignment.
-Please feel free to ask any questions if you get stuck along the way! This take home exam should take no longer than 1 hour (not including the Bonus Section)
+Please feel free to ask any questions if you get stuck along the way! This take home exam should take no longer than 1-2 hours (not including the Bonus Section)
 
 ## Instructions
 
